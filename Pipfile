@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 cowsay = "*"
 pyttsx3 = "*"
+pytest = "*"
 
 [dev-packages]
 
